@@ -1,4 +1,4 @@
-<h1 align="center"> Número Secreto </h1>
+<h1 align="center"> Sorteador </h1>
 
 <h2>�� Sobre</h2>
 <p>É um sorteador de números, voce define o range e quantos números quer.</p>
